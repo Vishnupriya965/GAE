@@ -1,0 +1,57 @@
+Body{
+	background:url("registration.jpg");
+	background-size:cover;
+	background-position: center;
+	padding-top:50px;
+	
+}
+#nav{
+	color:white;
+	padding-top:30px;
+	padding-left:60px;
+	font-size:35px;
+	margin:auto;
+	background:black;
+	width:500px;
+	border-radius:10px;
+	opacity:.8;	
+}
+#nav input{
+	 margin-top:30px;
+	 width:200px;
+	 height:40px;
+	font-size:25px;
+	border-radius:5px;
+
+}
+
+#nav input[name="email1"]{
+	width:400px;
+}
+#nav input[name="sex1"]{
+	margin-top:12px;
+	width:25px;
+}
+#nav input[type="checkbox"]{
+	margin-top:5px;
+	width:25px;
+}
+#nav input[type="submit"]{
+	margin:10px;
+	width:150px;
+	border-radius:50px;
+	margin-left:280px;
+	height:50px;
+	background:red;
+	color:white;
+	font-weight:bold;
+}
+#nav input[type="submit"]:hover{
+	 
+	background:white;
+	color:blue;
+	 
+}
+
+
+
